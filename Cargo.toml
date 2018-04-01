@@ -1,0 +1,12 @@
+[package]
+name = "cache-server"
+version = "0.1.0"
+authors = ["Josh Baker <joshbaker77@gmail.com>"]
+
+[dependencies]
+mio = "0.6"
+crossbeam = "0.3"
+num_cpus = "1.0"
+chrono = "0.4"
+clap = "2.31"
+glob = "0.2"
